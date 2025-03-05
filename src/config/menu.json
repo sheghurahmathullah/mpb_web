@@ -1,0 +1,37 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+
+
+    {
+      "name": "Grants",
+      "url": "https://grants.myprobuddy.com"
+    },
+    {
+      "name": "Contact",
+      "url": "/contact"
+    }
+
+  ],
+  "footer": [
+    {
+      "name": "Rook",
+      "url": "https://rookhq.com"
+    },
+    {
+      "name": "Rook Fellows",
+      "url": "https://fellows.rookhq.com"
+    },
+    {
+      "name": "Legacies",
+      "url": "https://lgcs.in/"
+    },
+    {
+      "name": "LWL",
+      "url": "/contact"
+    }
+  ]
+}
